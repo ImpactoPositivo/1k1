@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 230, 167, 86;
+  --bs-primary-rgb: 21, 70, 164;
   --bs-secondary-rgb: 230, 46, 61;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -73,7 +73,7 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #e62e3d;
+  --bs-link-color: #1546A4;
   --bs-link-hover-color: #b88645;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
@@ -10899,7 +10899,7 @@ p {
 }
 
 #mainNav img {
-  width: 15%;
+  width: 10%;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
